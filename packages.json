@@ -34311,7 +34311,7 @@
       "audio",
       "synth",
       "synthesizer",
-      "sequencer",
+      "sequencer"
     ],
     "description": "High level audio synthesis and sequencing library",
     "license": "GPLv3",
