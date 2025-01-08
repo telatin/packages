@@ -17959,6 +17959,24 @@
     "web": "https://github.com/andreas-wilm/nimreadfq"
   },
   {
+    "name": "readfx",
+    "url": "https://github.com/quadram-institute-bioscience/readfx",
+    "method": "git",
+    "tags": [
+      "fasta",
+      "fastq",
+      "fastx",
+      "parser",
+      "kseq",
+      "readfx",
+      "seqfu",
+      "bioinformatics"
+    ],
+    "description": "SeqFu FASTX parser (klib)",
+    "license": "MIT",
+    "web": "https://github.com/quadram-institute-bioscience/readfx"
+  },
+  {
     "name": "googlesearch",
     "url": "https://github.com/xyb/googlesearch.nim",
     "method": "git",
