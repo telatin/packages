@@ -2055,7 +2055,7 @@
   },
   {
     "name": "locale",
-    "url": "https://github.com/Amrykid/nim-locale/",
+    "url": "https://github.com/nim-community/nim-locale",
     "method": "git",
     "tags": [
       "library",
@@ -2067,7 +2067,7 @@
     ],
     "description": "A simple library for localizing Nim applications.",
     "license": "MIT",
-    "web": "https://github.com/Amrykid/nim-locale"
+    "web": "https://github.com/nim-community/nim-locale"
   },
   {
     "name": "fowltek",
@@ -18463,6 +18463,22 @@
     "web": "https://github.com/andreas-wilm/nimreadfq"
   },
   {
+    "name": "unoisenim",
+    "url": "https://github.com/telatin/unoisenim",
+    "method": "git",
+    "tags": [
+      "unoise3",
+      "uchime",
+      "denoise amplicon",
+      "sintax",
+      "naive bayesian classifier",
+      "metabarcoding"
+    ],
+    "description": "Denoise and taxonomy classification algorithms ported to Nim",
+    "license": "GPL-3.0",
+    "web": "https://telatin.github.io/unoisenim/"
+  },
+  {
     "name": "memonitor",
     "url": "https://github.com/quadram-institute-bioscience/memonitor",
     "method": "git",
@@ -18477,6 +18493,21 @@
     "description": "Cross-platform memory profiler",
     "license": "MIT",
     "web": "https://github.com/quadram-institute-bioscience/memonitor"
+  },
+  {
+    "name": "tableview",
+    "url": "https://www.github.com/telatin/tabview",
+    "method": "git",
+    "tags": [
+      "tsv",
+      "table",
+      "interactive",
+      "tui",
+      "csv"
+    ],
+    "description": "Interactive table viewer for the terminal",
+    "license": "MIT",
+    "web": "https://telatin.github.io/tabview"
   },
   {
     "name": "dsrclib",
@@ -37476,7 +37507,7 @@
   },
   {
     "name": "nserve",
-    "url": "https://github.com/heckarmon/nserve",
+    "url": "https://github.com/v4rm4n/nserve",
     "method": "git",
     "tags": [
       "http",
@@ -37488,7 +37519,7 @@
     ],
     "description": "A lightweight zero-deps, async HTTP file server with uploads",
     "license": "MIT",
-    "web": "https://github.com/heckarmon/nserve"
+    "web": "https://github.com/v4rm4n/nserve"
   },
   {
     "name": "steadytensor",
@@ -37645,5 +37676,168 @@
     "description": "Nim SDK for the Late.dev API",
     "license": "MIT",
     "web": "https://github.com/hmbemba/lately"
+  },
+  {
+    "name": "tinyvg",
+    "url": "https://github.com/bung87/tinyvg",
+    "method": "git",
+    "tags": [
+      "tinyvg",
+      "graphics",
+      "images"
+    ],
+    "description": "TinyVG - A compact binary vector graphics format implementation in Nim",
+    "license": "MIT",
+    "web": "https://github.com/bung87/tinyvg"
+  },
+  {
+    "name": "usu",
+    "url": "https://github.com/usu-dev/usu-nim",
+    "method": "git",
+    "description": "usu stores usu",
+    "license": "MIT",
+    "tags": [
+      "config",
+      "serialization",
+      "parser"
+    ]
+  },
+  {
+    "name": "rtmp",
+    "url": "https://github.com/openpeeps/rtmp",
+    "method": "git",
+    "tags": [
+      "rrtmp",
+      "livestream",
+      "live",
+      "streaming",
+      "client",
+      "server",
+      "libevent"
+    ],
+    "description": "Real-Time Messaging Protocol for Nim",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/rtmp"
+  },
+  {
+    "name": "groovebox",
+    "url": "https://github.com/openpeeps/groovebox",
+    "method": "git",
+    "tags": [
+      "rtmp",
+      "music",
+      "streaming",
+      "audio",
+      "radio",
+      "station",
+      "video",
+      "streaming"
+    ],
+    "description": "Live stream pre-recorded media to Twitch, Yotube and Icecast servers",
+    "license": "AGPL-3.0-or-later",
+    "web": "https://github.com/openpeeps/groovebox"
+  },
+  {
+    "name": "blg",
+    "url": "https://github.com/capocasa/blg",
+    "method": "git",
+    "tags": [
+      "blog",
+      "static",
+      "markdown",
+      "generator"
+    ],
+    "description": "Static blog generator using markdown and symlinks",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/blg"
+  },
+  {
+    "name": "editorconfig",
+    "url": "https://github.com/fox0430/editorconfig-nim",
+    "method": "git",
+    "tags": [
+      "editor",
+      "editorconfig",
+      "parser"
+    ],
+    "description": "A parser for EditorConfig",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/editorconfig-nim"
+  },
+  {
+    "name": "money",
+    "url": "https://github.com/openpeeps/money",
+    "method": "git",
+    "tags": [
+      "money",
+      "exchange",
+      "currency",
+      "currencies",
+      "cart",
+      "checkout",
+      "transactions"
+    ],
+    "description": "Create, calculate and format money in Nim language",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/money"
+  },
+  {
+    "name": "nimvault",
+    "url": "https://github.com/HaoZeke/nimvault",
+    "method": "git",
+    "tags": [
+      "gpg",
+      "encryption",
+      "vault",
+      "secrets",
+      "cli",
+      "dotfiles"
+    ],
+    "description": "GPG-encrypted opaque-blob vault with hidden filenames",
+    "license": "MIT",
+    "web": "https://github.com/HaoZeke/nimvault"
+  },
+  {
+    "name": "scfg_nim",
+    "url": "https://github.com/heuer/scfg-nim",
+    "method": "git",
+    "tags": [
+      "scfg",
+      "config",
+      "configuration"
+    ],
+    "description": "scfg (simple configuration file format) parser",
+    "license": "MIT",
+    "web": "https://github.com/heuer/scfg-nim"
+  },
+  {
+    "name": "blackpaper",
+    "url": "https://github.com/openpeeps/blackpaper",
+    "method": "git",
+    "tags": [
+      "password",
+      "strength",
+      "checker",
+      "simd",
+      "security"
+    ],
+    "description": "A simple Password Strength Estimator",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/blackpaper"
+  },
+  {
+    "name": "shorten",
+    "url": "https://github.com/capocasa/shorten",
+    "method": "git",
+    "tags": [
+      "url",
+      "shortener",
+      "web",
+      "server",
+      "cli"
+    ],
+    "description": "Minimal secure URL shortener with CLI",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/shorten"
   }
 ]
